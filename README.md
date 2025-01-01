@@ -1,2 +1,2 @@
-# LeetCode-January-2025
-Daily Challenges from January, 2025
+# CodeChef-January-2025
+All Contests from January, 2025
